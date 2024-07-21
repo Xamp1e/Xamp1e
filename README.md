@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xamp1e
+- 👋 Hi, I’m @Julian
 - 👀 I’m interested in perl
 - 🌱 I’m currently learning bioinformatic
 - 💞️ I’m looking to collaborate on ...
